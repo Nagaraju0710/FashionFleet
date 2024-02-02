@@ -17,19 +17,19 @@ Welcome to FashionFleet, a simple web application for online clothing shopping. 
 
 ## Getting Started
 
-1. Clone this repository to your local machine:
+# Clone this repository to your local machine:
 
    ```bash
    git clone <https://github.com/Nagaraju0710/FashionFleet.git>
 
-2. Open the project folder and explore the following files:
+## Open the project folder and explore the following files:
 
 index.html: Main HTML file containing the structure of the web page.
 style.css: Cascading Style Sheets for styling the web page.
 script.js: JavaScript file for dynamic content and interactivity.
 Open the index.html file in a web browser to view the FashionFleet application.
 
-3. Features:-
+## Features:-
 
 Tab switching layout for Men, Women, and Kids categories.
 
@@ -44,6 +44,6 @@ Product data is fetched from the provided JSON file (db.json) using JavaScript F
 Feel free to explore, modify, and enhance the code to meet your specific requirements. Happy coding! 😊
 
 
-participation:
+## 👩‍🚒 participation:
 
 Lonka Nagaraju
