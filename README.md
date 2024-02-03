@@ -48,7 +48,6 @@ Open the index.html file in a web browser to view the FashionFleet application.
 
 ## Features:-
 
-
 Tab switching layout for Men, Women, and Kids categories.
 
 Dynamic product cards with product image, title, vendor, price, compare at price, and discount percentage.
