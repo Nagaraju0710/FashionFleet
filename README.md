@@ -13,11 +13,7 @@ Welcome to FashionFleet, a simple web application for online clothing shopping. 
 
 ## Getting Started
 
-1. Deployed Link:-
-
-<https://fashion-fleet-obdleoqx4-nagaraju0710.vercel.app/>
-
-2. Clone this repository to your local machine:
+1. Clone this repository to your local machine:
 
 <img src="https://img.shields.io/badge/CSS3-text?style=for-the-badge&logo=CSS3&color=204456" />
 <img src="https://img.shields.io/badge/HTML5-text?style=for-the-badge&logo=HTML5&color=2b3b35" />
@@ -44,7 +40,7 @@ script.js: JavaScript file for dynamic content and interactivity.
 Open the index.html file in a web browser to view the FashionFleet application.
 
 
-3. Features:-
+2. Features:-
 
 ## Features:-
 
@@ -55,7 +51,7 @@ Add to cart functionality (visual button only, no actual cart implementation).
 Responsive design for mobile screens (up to 767px), tablet screens (768px to 1024px), and desktop screens (above 1025px).
 
 
-4. Data Source:-
+3. Data Source:-
 Product data is fetched from the provided JSON file (db.json) using JavaScript Fetch API.
 
 Feel free to explore, modify, and enhance the code to meet your specific requirements. Happy coding! 😊
