@@ -6,10 +6,6 @@ Welcome to FashionFleet, a simple web application for online clothing shopping. 
 ## Technologies Used
 
 <div>
-
-  
-   
-
    <img src="https://img.shields.io/badge/chakraui-text?style=for-the-badge&logo=CSS3&color=204456" />
  <img src="https://img.shields.io/badge/HTML5-text?style=for-the-badge&logo=HTML5&color=2b3b35" />
   <img src="https://img.shields.io/badge/javascript-text?style=for-the-badge&logo=javascript&color=204456" />
