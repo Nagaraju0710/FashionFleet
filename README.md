@@ -19,14 +19,14 @@ Welcome to FashionFleet, a simple web application for online clothing shopping. 
 
 2. Clone this repository to your local machine:
 
-   <img src="https://img.shields.io/badge/CSS3-text?style=for-the-badge&logo=CSS3&color=204456" />
- <img src="https://img.shields.io/badge/HTML5-text?style=for-the-badge&logo=HTML5&color=2b3b35" />
-  <img src="https://img.shields.io/badge/javascript-text?style=for-the-badge&logo=javascript&color=204456" />
+<img src="https://img.shields.io/badge/CSS3-text?style=for-the-badge&logo=CSS3&color=204456" />
+<img src="https://img.shields.io/badge/HTML5-text?style=for-the-badge&logo=HTML5&color=2b3b35" />
+<img src="https://img.shields.io/badge/javascript-text?style=for-the-badge&logo=javascript&color=204456" />
 </div>
 
 ## Deployed Link
 
-[https://fashion-fleet-obdleoqx4-nagaraju0710.vercel.app)
+[https://fashion-fleet-8d389bbvm-nagaraju0710.vercel.app/)
 
 ## Getting Started
 
