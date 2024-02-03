@@ -6,6 +6,7 @@ Welcome to FashionFleet, a simple web application for online clothing shopping. 
 ## Technologies Used
 
 <div>
+
   
    
 
@@ -22,17 +23,35 @@ Welcome to FashionFleet, a simple web application for online clothing shopping. 
 
 2. Clone this repository to your local machine:
 
+   <img src="https://img.shields.io/badge/CSS3-text?style=for-the-badge&logo=CSS3&color=204456" />
+ <img src="https://img.shields.io/badge/HTML5-text?style=for-the-badge&logo=HTML5&color=2b3b35" />
+  <img src="https://img.shields.io/badge/javascript-text?style=for-the-badge&logo=javascript&color=204456" />
+</div>
+
+## Deployed Link
+
+[https://fashion-fleet-obdleoqx4-nagaraju0710.vercel.app)
+
+## Getting Started
+
+# Clone this repository to your local machine:
+
+
    ```bash
    git clone <https://github.com/Nagaraju0710/FashionFleet.git>
 
-  => Open the project folder and explore the following files:
+## Open the project folder and explore the following files:
 
 index.html: Main HTML file containing the structure of the web page.
 style.css: Cascading Style Sheets for styling the web page.
 script.js: JavaScript file for dynamic content and interactivity.
 Open the index.html file in a web browser to view the FashionFleet application.
 
+
 3. Features:-
+
+## Features:-
+
 
 Tab switching layout for Men, Women, and Kids categories.
 
@@ -48,11 +67,10 @@ Feel free to explore, modify, and enhance the code to meet your specific require
 
 
 
-## Screenshots
 
 
 
+## 👩‍🚒 participation:
 
-##  👩‍🚒 participation:
 
 Lonka Nagaraju
